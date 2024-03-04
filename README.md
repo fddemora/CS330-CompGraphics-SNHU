@@ -1,9 +1,8 @@
 # CS330-CompGraphics-SNHU
 
 
-<div style="margin: 0 auto;">
 ![CS 330 Final Project](screenshot.png)
-</div>
+
 What I took away from this course.
 
 I can basically build a graphical web or desktop application that is independent of a graphics engine such as Unity. Graphics engines today generally are using up to date graphics API's such as Vulkan, DirectX, and Metal. Where as I have used OpenGL, a more legacy API that deals with the graphical rendering. Despite using a legacy API, I am confident in continuing my education in graphical programming, and developing more advanced features in OpenGL as well as learning other more advanced graphic API's. My application directly targets Windows desktop as OpenGL is interacting with the Windows Win32 API, and I used C++ to build out the scene. WebGL targets the web, which is accessible to the internet and it uses JavaScript as the programming language. I am used to JavaScript and replicating the scene to WebGL is doable on my end. 
